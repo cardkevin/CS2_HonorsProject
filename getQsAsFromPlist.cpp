@@ -4,7 +4,8 @@
 //
 //  Created by Kevin Gonzalez on 5/23/19.
 //  Copyright © 2019 Kevin Gonzalez. All rights reserved.
-//
+//  Description: This program will find the questions and answers and return them as a string vector as well as get the qid numbers, 
+//                  aid numbers and store them in a 2D array.
 
 #include <cstdlib>
 #include <iostream>
